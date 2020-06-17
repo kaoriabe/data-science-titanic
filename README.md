@@ -60,4 +60,5 @@ Embora aqueles que escaparam com vida tiveram sua sorte, alguns grupos de pessoa
 >>> - [x] Colocar o modelo para produção
 >>> - [x] Acompanhar a execução do modelo
 >>> - [x] Adaptar ou alterar o modelo conforme necessidade
-> Link Notebook: https://www.kaggle.com/tatianaabe/titanic-notebook-datascience
+
+>> Link Notebook: https://www.kaggle.com/tatianaabe/titanic-notebook-datascience
